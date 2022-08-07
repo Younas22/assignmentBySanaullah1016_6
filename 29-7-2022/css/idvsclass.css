@@ -1,0 +1,13 @@
+body{
+	font-family:Arial,Helvetica,sans-serif;
+}
+.text-pink{
+	color:pink;
+}
+.text-green{
+	color:green;
+}
+.text-red{
+	color:red;
+}
+.bg-yellow{background-color:yellow;}
